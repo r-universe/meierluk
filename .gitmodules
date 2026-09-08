@@ -5,6 +5,3 @@
 [submodule "grplasso"]
 	path = grplasso
 	url = https://github.com/cran/grplasso
-[submodule "hdi"]
-	path = hdi
-	url = https://github.com/cran/hdi
